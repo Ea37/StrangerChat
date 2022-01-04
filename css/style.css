@@ -1,0 +1,34 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	vertical-align: baseline;
+	background: transparent;
+	font-weight: normal;
+	text-decoration: none;
+	outline: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+a {
+    color: #000;
+}
+.wrapper { 
+    width: 90%;
+	margin: 0 auto;
+	max-width:1400px;
+}
+#header { 
+    padding: 20px 0;
+}
+#header section.wrapper header { 
+    text-align: center;
+}
+#header section.wrapper header h1 { 
+    font-size: 43px;
+}
+#header section.wrapper header h1 a { 
+    color: #c4c249;
+    font-weight: bold;
+}
